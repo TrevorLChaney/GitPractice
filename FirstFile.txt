@@ -1,2 +1,3 @@
 This is a text file for testing and general git practice.
 I am trying to figure out pushing to github at the moment.
+I moved the local git folder so I am checking if I broke it.
